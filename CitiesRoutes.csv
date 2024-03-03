@@ -1,0 +1,94 @@
+V1,V2,weight,color
+Santiago,Sydney,6,yellow
+Sydney,Panama,6,red
+Sydney,Batavia,2,light gray
+Batavia,Sydney,2,light gray
+Singapore,Sydney,4,orange
+Singapore,Batavia,1,light gray
+Batavia,Singapore,1,light gray
+Montreal,New York,1,light gray
+New York,Montreal,1,light gray
+Dakar,Accra,1,light gray
+Accra,Dakar,1,light gray
+Buenos Aires,Rio,2,light gray
+Rio,Buenos Aires,2,light gray
+Santiago,Buenos Aires,1,light gray
+Buenos Aires,Santiago,1,light gray
+Cairo,Istanbul,1,light gray
+Istanbul,Cairo,1,light gray
+Reykjavik,London,2,light gray
+London,Reykjavik,2,light gray
+London,Istanbul,3,light gray
+Istanbul,London,3,light gray
+Anchorage,LA,2,red
+Panama,Tokyo,5,orange
+Tokyo,Panama,5,purple
+Tokyo,Singapore,5,white
+Madras,Singapore,3,light gray
+Singapore,Hong Kong,3,blue
+Singapore,Kathmandu,4,purple
+Nairobi,Batavia,6,green
+Nairobi,Batavia,6,blue
+Batavia,Cape Town,8,light gray
+Hong Kong,Tokyo,2,light gray
+Hong Kong,Vladivostok,3,light gray
+Hong Kong,Khuree,3,light gray
+Vladivostok,Tokyo,2,blue
+Tokyo,Vladivostok,2,yellow
+Vladivostok,Anchorage,5,green
+Anchorage,Vladivostok,5,dark gray
+Vladivostok,Khuree,2,white
+Khuree,Vladivostok,2,orange
+Moskva,Vladivostok,8,light gray
+Moskva,Khuree,5,red
+Kathmandu,Khuree,3,light gray
+Baghdad,Khuree,4,light gray
+Kathmandu,Baghdad,2,green
+Madras,Kathmandu,2,dark gray
+Dubai,Madras,3,orange
+Baghdad,Dubai,1,light gray
+Dubai,Baghdad,1,light gray
+Baghdad,Moskva,3,yellow
+Istanbul,Baghdad,2,white
+Istanbul,Baghdad,2,purple
+Nairobi,Dubai,4,red
+Dubai,Khartoum,2,dark gray
+Cairo,Dubai,2,yellow
+Istanbul,Moskva,2,dark gray
+Moskva,London,4,blue
+London,Casa Blanca,3,green
+Khartoum,Cairo,2,purple
+Khartoum,Nairobi,2,orange
+Nairobi,Cape Town,4,white
+Accra,Nairobi,3,light gray
+Cairo,Accra,4,green
+Accra,Cairo,4,dark gray
+Accra,Cape Town,5,orange
+Cape Town,Accra,5,purple
+Cape Town,Rio,6,dark gray
+Casa Blanca,Cairo,3,red
+Casa Blanca,Accra,3,white
+Casa Blanca,Dakar,2,light gray
+Reykjavik,Casa Blanca,5,purple
+Santiago,Rio,3,white
+Santiago,Panama,5,blue
+Panama,Rio,4,light gray
+Caracus,Rio,3,light gray
+Panama,Caracus,2,green
+Dakar,Rio,4,yellow
+Rio,Dakar,4,green
+Casa Blanca,San Juan,4,light gray
+San Juan,Dakar,4,blue
+Caracus,San Juan,2,light gray
+Panama,San Juan,2,dark gray
+San Juan,Panama,2,white
+San Juan,New York,2,red
+Montreal,Reykjavik,4,yellow
+Reykjavik,Montreal,4,red
+Reykjavik,Anchorage,6,white
+Anchorage,Montreal,3,light gray
+LA,Anchorage,2,blue
+LA,Montreal,4,orange
+New York,LA,3,purple
+LA,San Juan,4,dark gray
+LA,Panama,5,yellow
