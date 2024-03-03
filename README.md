@@ -1,14 +1,14 @@
 In each instance, you have connections from city to city (i.e., a network).  Some cities are connected to each other with multiple paths.  The weight of the path is the number of blocks connecting the cities (for reference, the length of the path from Anchorage to Montreal is 3).  We will consider the edges to be directed in the following way (alphabetically):
 
-Light Gray – Ascending (unless there are two, then each one goes the opposite way)
-White - Descending
-Dark Gray - Ascending
-Green - Descending
-Yellow - Ascending
-Blue - Descending
-Purple - Descending
-Red – Descending (with the exception of Anchorage to Los Angeles, which is ascending)
-Orange - Ascending
+Light Gray – Ascending (unless there are two, then each one goes the opposite way),
+White - Descending,
+Dark Gray - Ascending,
+Green - Descending,
+Yellow - Ascending,
+Blue - Descending,
+Purple - Descending,
+Red – Descending (with the exception of Anchorage to Los Angeles, which is ascending),
+Orange - Ascending,
 
 ![image_22379918121709229530435_20240229175852269](https://github.com/GMindigo08/Epidemiology/assets/137466455/dd7dd6b3-19de-421b-8b64-06337c09912b)
 ![Network](https://github.com/GMindigo08/Epidemiology/assets/137466455/331fffb8-4f91-4ed6-abdd-f433cd4a580e)
